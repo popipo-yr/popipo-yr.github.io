@@ -4,6 +4,9 @@
         "details": [{
             "appID": "6H72553LUE.com.cesiumai.motorhome",
             "paths": ["/iosappmh/*"]
+            },{
+            "appID": "6H72553LUE.com.cesiumai.motorhome2",
+            "paths": ["/iosappmh2/*"]
             }]
     }
 }
